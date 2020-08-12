@@ -1,4 +1,4 @@
-# Deep Learning Specialization on Coursera
+# Deep Learning Specialization on Coursera (2020)
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
